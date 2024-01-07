@@ -10,6 +10,7 @@ public class ReverseString
 
         }
         System.out.println("Reversed string is " +Reverse);
+        System.out.println("End of the program");
     }
 
 }
